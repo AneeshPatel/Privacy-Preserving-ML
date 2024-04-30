@@ -1,1 +1,1 @@
-todo
+This directory includes the visualizations from the analysis. The sub-directories correspond directly with the [iPython Notebook](https://github.com/AneeshPatel/Privacy-Preserving-ML/tree/main/Notebooks) from which the visualizations were taken.
