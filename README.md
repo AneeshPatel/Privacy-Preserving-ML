@@ -3,6 +3,7 @@ This repository accompanies the thesis titled "Privacy-Preserving Machine Learni
 
 ## What's Included
 - [Data](https://github.com/AneeshPatel/Privacy-Preserving-ML/tree/main/Data): Datasets that were used in the research
+- [Misc-Materials](https://github.com/AneeshPatel/Privacy-Preserving-ML/tree/main/Misc-Materials): Thesis defense slides and poster that were presented to peers and faculty
 - [Notebooks](https://github.com/AneeshPatel/Privacy-Preserving-ML/tree/main/Notebooks): iPython notebooks containing the code used for analysis and experimentation
 - [Visualizations](https://github.com/AneeshPatel/Privacy-Preserving-ML/tree/main/Visualizations): Figures, charts, and other visual representations of the findings
 
