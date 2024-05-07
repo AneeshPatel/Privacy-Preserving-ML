@@ -1,0 +1,4 @@
+MMs-for-Synthetic-Data/Adult-Census-Income/adult_clean_synth_labelled.csv filter=lfs diff=lfs merge=lfs -text
+MMs-for-Synthetic-Data/Breast-Cancer/wdbc_clean_synth_labelled.csv filter=lfs diff=lfs merge=lfs -text
+MMs-for-Synthetic-Data/Handwritten-Digits/digits_clean_synth_labelled.csv filter=lfs diff=lfs merge=lfs -text
+MMs-for-Synthetic-Data/Handwritten-Digits/digits_clean_synth.csv filter=lfs diff=lfs merge=lfs -text
